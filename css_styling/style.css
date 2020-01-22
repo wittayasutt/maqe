@@ -100,7 +100,7 @@ body {
 }
 
 @media (orientation: portrait) {
-	.wrapper {
+	.container {
 		height: 90vw;
 		width: 90vw;
 	}
